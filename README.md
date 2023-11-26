@@ -2,6 +2,8 @@
 
 Completed this project as part of my BI with PowerBI Internship with United Network of Professionals (UNP).
 
+This Power BI project is built upon Airbnb data, featuring five distinct slides: Overview, Availability, Ratings, Pricing, and Summary. Utilizing measures and the query editor, the project aims to provide a comprehensive visualization of Airbnb's performance metrics. Users can explore key aspects such as property availability, user ratings, pricing trends, and an overall summary, enhancing data-driven insights for stakeholders and decision-makers.
+
 Key Highlights:
 
 1. Contributed in building innovative, interactive Power BI dashboards with detailed KPIs.
