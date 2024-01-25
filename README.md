@@ -11,5 +11,5 @@ Key Highlights:
 3. Dashboard is designed with a user-centric approach.
 
 
-PBIX file Link: https://drive.google.com/file/d/1nBOaVpRS1J9XmZt6W3FGc6YNyKHQQJsH/view?usp=sharing
-PDF Link: https://drive.google.com/file/d/15qF49Dyok897g6dJn_phKP_3bV-E0jpl/view?usp=sharing
+PBIX file Link: https://drive.google.com/file/d/13oIe9UKOV9WLtOCETD_ctWGtdruBak73/view?usp=sharing
+PDF Link: https://drive.google.com/file/d/1igiCBUH7C84Mf8b2H0jv5xcmeFawjyQO/view?usp=sharing
